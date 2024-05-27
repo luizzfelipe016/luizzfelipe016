@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 👋
+## vindas ao meu perfil 👋
 
 <!--
 **luizzfelipe016/luizzfelipe016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
